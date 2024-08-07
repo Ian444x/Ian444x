@@ -1,3 +1,3 @@
 - 😎 Ola, meu nome é *Ian*
 - 📚 Estou estudando na [Alura](https://www.alura.com.br)
-- 👻 _*Sejam bem vindos ao meu perfil*_👍❤
+- 👻 *Sejam bem vindos ao meu perfil*👍❤
