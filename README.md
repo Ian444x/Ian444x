@@ -1,0 +1,3 @@
+- Ola, meu nome é *Ian*
+- Estou estudando na [Alura](https://www.alura.com.br)
+- *Sejam bem vindos ao meu perfil*👍❤
